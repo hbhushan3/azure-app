@@ -10,12 +10,20 @@ html, body {
 }
 
 main {
-  margin: auto;
   width: 50%;
-  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main > h1 {
   text-align: center;
   font-size: 3.5em;
+}
+#pic{
+  text-align: center;
+  padding-left: 50px;
+  padding-bottom: 5%;
+}
+a {
+  padding-left: 255px;
 }
